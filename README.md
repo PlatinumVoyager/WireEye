@@ -6,3 +6,7 @@
 Toolset for 802.11/LAN reconnaissance across remote and local networks.
 
 The first early development files for the WireEye (Wireless Eye) network information gathering submodules for the Python3.10 and C counterparts have been completed. The source code for all static files developed ending in ".c" will be posted at a later date. Stand by.
+
+## Basic Usage:
+### How to use "wireEye.py"?
+* `$(which python3) wireEye.py -h/--help` - Show primary help information to stdout (standard out) and exit.
