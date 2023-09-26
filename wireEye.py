@@ -7,7 +7,7 @@ from datetime import datetime
 from signal import signal, SIGINT
 from subprocess import call, PIPE
 
-# Usage dmeo: python3.10 wireEye.py
+# Usage python3.10 wireEye.py -h
 
 '''
     - finish channel hopping functionality
