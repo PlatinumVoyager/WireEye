@@ -1,5 +1,7 @@
 # WireEye
-<img src="https://github.com/PlatinumVoyager/WireEye/assets/116006542/c75953b6-3d82-4372-ae36-ea62f4d3bb7d" wdith=250 height=250>
+<p align="center">
+    <img src="https://github.com/PlatinumVoyager/WireEye/assets/116006542/c75953b6-3d82-4372-ae36-ea62f4d3bb7d" wdith=250 height=250>
+</p>
 
 ![image](https://github.com/PlatinumVoyager/WireEye/assets/116006542/71263f22-466f-431a-aa05-471dac0e9bda)
 
@@ -17,9 +19,8 @@ for the targeted NIC (*Network Interface Card*):
 <img src="https://scapy.readthedocs.io/en/latest/_images/scapy_logo.png" width="250">
 
     A python program that enables the user to send, sniff and dissect and forge network packets.
-
-    - Installation (Python 3.10):
-        - `$(which python3) -m pip install scapy`
+- Installation (Python 3.10):
+    - `$(which python3) -m pip install scapy`
 
 ## Basic Usage:
 `$(which python3) wireEye.py --help` 
