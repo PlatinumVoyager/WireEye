@@ -9,16 +9,6 @@ from subprocess import call, PIPE
 
 # Usage python3.10 wireEye.py -h
 
-'''
-    - finish channel hopping functionality
-    - visualize data with matplotlib
-    - implement GPS functionality and mapping with GPSD and leaf
-        would need to store wireless AP as dictionary, AP_NAME, LOCATION (GPS COORDINATES) then pass this data to folium
-    
-        - would need to get BASE COORDINATES
-          * if operator chooses a command line option for this press ENTER to store current coordinates as the BASE COORDINATES
-'''
-
 # Wireless Eye (WireEye)
 
 # set logging level for scapy
