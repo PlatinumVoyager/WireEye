@@ -11,18 +11,16 @@ The first early development files for the WireEye (Wireless Eye) network informa
 1. A working network adapter that is capable of supporting the following **_management modes_**
 for the targeted NIC (*Network Interface Card*):
 
-    - _Monitor_ - allows a computer with a wireless network interface controller (WNIC) to monitor all traffic received on a wireless channel
+    - _Monitor_ - allows a computer with a wireless network interface controller (WNIC) to monitor all traffic received on a wireless channel.
 
 2. [Scapy](https://scapy.net/) 
 <img src="https://scapy.readthedocs.io/en/latest/_images/scapy_logo.png" width="250">
-    - Python program that enables the user to send, sniff and dissect and forge network packets
+
+    - Python program that enables the user to send, sniff and dissect and forge network packets.
 
     - Installation (Python 3.10):
         - `$(which python3) -m pip install scapy`
 
 ## Basic Usage:
-## How to use WireEye
 `$(which python3) wireEye.py --help` 
-    
-
 Show primary help information to stdout (standard out) and exit.
