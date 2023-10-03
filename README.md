@@ -18,7 +18,8 @@ for the targeted NIC (*Network Interface Card*):
 2. [Scapy](https://scapy.net/) 
 <img src="https://scapy.readthedocs.io/en/latest/_images/scapy_logo.png" width="250">
 
-    A python program that enables the user to send, sniff and dissect and forge network packets.
+A python program that enables the user to send, sniff and dissect and forge network packets.
+
 - Installation (Python 3.10):
     - `$(which python3) -m pip install scapy`
 <br/>
