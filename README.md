@@ -5,6 +5,8 @@
 <p align="center"><i>"Gaze into the Abyss, and get lost in the data stream."</i></p>
 <br/>
 
+### UPDATE: This framework is under active development and will be released in the future.
+
 ### Toolset for 802.11/LAN reconnaissance across remote and local networks.
 WireEye (Wireless Eye) is a 802.11 a/b/g/n wireless protocol analyzer written in Python3 built to capture and dissect 802.11 probe requests, responses, along with the wireless beacon frames deployed by remote access points when advertising their SSID, cipher, wireless capabilities, etc.
 
