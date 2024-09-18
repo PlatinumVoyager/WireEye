@@ -10,6 +10,10 @@
 > [!NOTE]
 You can obtain/use the extension modules to WireEye via <a href="https://github.com/PlatinumVoyager/WirelessAdvocate"/>WirelessAdvocate</a>
 
+[![PlatinumVoyager - WireEye](https://img.shields.io/static/v1?label=PlatinumVoyager&message=WireEye&color=blue&logo=github)](https://github.com/PlatinumVoyager/WireEye "Go to GitHub repo")
+[![stars - WireEye](https://img.shields.io/github/stars/PlatinumVoyager/WireEye?style=social)](https://github.com/PlatinumVoyager/WireEye)
+[![forks - WireEye](https://img.shields.io/github/forks/PlatinumVoyager/WireEye?style=social)](https://github.com/PlatinumVoyager/WireEye)
+
 ### Toolset for 802.11/LAN reconnaissance across remote and local networks.
 WireEye (Wireless Eye) is a 802.11 a/b/g/n wireless protocol analyzer written in Python3 built to capture and dissect 802.11 probe requests, responses, along with the wireless beacon frames deployed by remote access points when advertising their SSID, cipher, wireless capabilities, etc.
 
